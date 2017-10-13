@@ -28,13 +28,13 @@ Happy to push out a new version if you get a pull request accepted!
 | Read 1 MB sequentially from disk   |  20,000,000.0 |  20,000 |  20 | 80x memory, 20X SSD         |
 | Send packet CA → Netherlands → CA  | 150,000,000.0 | 150,000 | 150 | -                           |
 
-## Unit Reference
+### Unit Reference
 
 * `1` ns = `10^-9` seconds
 * `1` µs = `10^-6` seconds = `1,000` ns
 * `1` ms = `10^-3` seconds = `1,000` µs = `1,000,000` ns
 
-## Credit/Notes
+### Credit/Notes
 
 * By [Jeff Dean](http://research.google.com/people/jeff/)
 * Originally by [Peter Norvig](http://norvig.com/21-days.html#answers)
