@@ -8,9 +8,6 @@ Happy to push out a new version if you get a pull request accepted!
 
 ## Latency Comparison Numbers
 
-**Note**: "Forked" from [Latency Numbers Every Programmer Should Know](https://gist.github.com/GLMeece/b00c9c97a06a957af7426b1be5bc8be6)
-
-
 | Event                              | Nanoseconds   | Microseconds | Milliseconds | Comparison    |
 |------------------------------------|--------------:|--------:|----:|-----------------------------|
 | L1 cache reference                 |           0.5 |       - |   - | -                           |
@@ -29,12 +26,11 @@ Happy to push out a new version if you get a pull request accepted!
 | Send packet CA → Netherlands → CA  | 150,000,000.0 | 150,000 | 150 | -                           |
 
 ### Unit Reference
-
 * `1` ns = `10^-9` seconds
 * `1` µs = `10^-6` seconds = `1,000` ns
 * `1` ms = `10^-3` seconds = `1,000` µs = `1,000,000` ns
 
 ### Credit/Notes
-
-* By [Jeff Dean](http://research.google.com/people/jeff/)
 * Originally by [Peter Norvig](http://norvig.com/21-days.html#answers)
+
+**Note**: "Forked" from [Latency Numbers Every Programmer Should Know](https://gist.github.com/GLMeece/b00c9c97a06a957af7426b1be5bc8be6)
