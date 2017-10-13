@@ -1,7 +1,7 @@
 
-Published at <https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html>
-
+## Published at [eecs.berkeley](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 Happy to push out a new version if you get a pull request accepted!
+
 ## Visual Comparison Charts
 
 ![Visual Comparison Chart](Latency_Comparison.png)
