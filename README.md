@@ -3,11 +3,9 @@
 Happy to push out a new version if you get a pull request accepted!
 
 ## Visual Comparison Charts
-
 ![Visual Comparison Chart](Latency_Comparison.png)
 
 ## Latency Comparison Numbers
-
 | Event                              | Nanoseconds   | Microseconds | Milliseconds | Comparison    |
 |------------------------------------|--------------:|--------:|----:|-----------------------------|
 | L1 cache reference                 |           0.5 |       - |   - | -                           |
