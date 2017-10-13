@@ -5,6 +5,8 @@ Happy to push out a new version if you get a pull request accepted!
 ## Visual Comparison Charts
 ![Visual Comparison Chart](Latency_Comparison.png)
 
+![test](Scaled_System_Latencies_2014.pdf)
+
 ## Latency Comparison Numbers
 | Event                              | Nanoseconds   | Microseconds | Milliseconds | Comparison    |
 |------------------------------------|--------------:|--------:|----:|-----------------------------|
